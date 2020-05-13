@@ -3,7 +3,7 @@ class Person
     @name = name
   end
  
-  def breed=(n)
+  def name=(name)
     @name = name
   end
  
